@@ -1,13 +1,12 @@
 import React from 'react';
 import './App.css';
 import ImageView from './ImageView.js';
-import OpenSeadragon from 'openseadragon';
-import { OpenSeaDragon } from './ImageViewer.js';
 
 class App extends React.Component {
+	
   render() {
-    return <div className = "app">				
-    	     <ImageView  />
+    return <div className = "app">				    	     
+			 <ImageView id='ocd-viewer' image='https://shamsula.github.io/image-files/'/>
            </div>;
   }
 }
