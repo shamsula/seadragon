@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.0bb12843.chunk.css",
-    "main.js": "/repository-name/static/js/main.0cbbacf1.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.0cbbacf1.chunk.js.map",
-    "runtime~main.js": "/repository-name/static/js/runtime~main.f7634681.js",
-    "runtime~main.js.map": "/repository-name/static/js/runtime~main.f7634681.js.map",
-    "static/js/2.b4a7c29e.chunk.js": "/repository-name/static/js/2.b4a7c29e.chunk.js",
-    "static/js/2.b4a7c29e.chunk.js.map": "/repository-name/static/js/2.b4a7c29e.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "precache-manifest.d0c35c2b2de7cee1bb0301f7e1726775.js": "/repository-name/precache-manifest.d0c35c2b2de7cee1bb0301f7e1726775.js",
-    "service-worker.js": "/repository-name/service-worker.js",
-    "static/css/main.0bb12843.chunk.css.map": "/repository-name/static/css/main.0bb12843.chunk.css.map"
+    "main.css": "/seadragon/static/css/main.0bb12843.chunk.css",
+    "main.js": "/seadragon/static/js/main.1908ba04.chunk.js",
+    "main.js.map": "/seadragon/static/js/main.1908ba04.chunk.js.map",
+    "runtime~main.js": "/seadragon/static/js/runtime~main.916aeca9.js",
+    "runtime~main.js.map": "/seadragon/static/js/runtime~main.916aeca9.js.map",
+    "static/js/2.b4a7c29e.chunk.js": "/seadragon/static/js/2.b4a7c29e.chunk.js",
+    "static/js/2.b4a7c29e.chunk.js.map": "/seadragon/static/js/2.b4a7c29e.chunk.js.map",
+    "index.html": "/seadragon/index.html",
+    "precache-manifest.ade31d69c91b8bd138a3576d4a1fefc7.js": "/seadragon/precache-manifest.ade31d69c91b8bd138a3576d4a1fefc7.js",
+    "service-worker.js": "/seadragon/service-worker.js",
+    "static/css/main.0bb12843.chunk.css.map": "/seadragon/static/css/main.0bb12843.chunk.css.map"
   }
 }
